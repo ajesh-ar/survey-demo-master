@@ -13,3 +13,6 @@
  *= require_tree .
  *= require_self
  */
+ div.panel:hover {
+ 	box-shadow: 0 0 2px rgba(35, 173, 278, 1);
+ }
